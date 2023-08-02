@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\eclipse-workspace\DiamonShopMVC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3233537835.index
+977792492.index
+3794454238.index
+2201098079.index
+3235364284.index
+2345962981.index
